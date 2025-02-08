@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.git
+.gitignore
+.pytest_cache
+tests/
+# Don't ignore .env for Azure deployment
